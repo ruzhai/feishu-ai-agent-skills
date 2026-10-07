@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+
+# 部署进网关工作区后，这些文件里会出现真实凭据
+.env
+api-keys.json
+secrets.json
